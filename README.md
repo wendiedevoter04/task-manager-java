@@ -40,11 +40,11 @@ It also improved my understanding of building simple state-based systems where u
 
 ## Possible improvements
 
--Add task persistence using file storage
--Allow editing of existing tasks
--Introduce task priorities or deadlines
--Improve input validation to prevent errors
--Convert into a GUI or web-based application
+- Add task persistence using file storage
+- Allow editing of existing tasks
+- Introduce task priorities or deadlines
+- Improve input validation to prevent errors
+- Convert into a GUI or web-based application
 
 ## Project summary
 
